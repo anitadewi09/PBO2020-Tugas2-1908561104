@@ -1,0 +1,37 @@
+{
+"mahasiswa" :
+[
+    {
+        "nama": "Anita Dewi",
+        "nim": "1908561104",
+        "umur": 20,
+        "birthdate": "2000-09-29",
+        "email": "anitadewi20177@gmail.com",
+        "lulus":false,
+        "hobby": [
+            "sport",
+            "sleep"
+        ],
+    "pembimbing": {
+        "pembimbing1": "Bapak Putu",
+        "pembimbing2": "Bapak Gede"
+        }
+    },
+    {
+        "nama": "Agus Suputra",
+        "nim": "1908561109",
+        "umur": 20,
+        "birthdate": "2000-10-15",
+        "email": "agussuputra23@gmail.com",
+        "lulus":false,
+        "hobby": [
+            "gaming",
+            "coding"
+        ],
+    "pembimbing": {
+        "pembimbing1": "Bapak Putu",
+        "pembimbing2": "Bapak Gede"
+        }
+    }
+]
+}    
