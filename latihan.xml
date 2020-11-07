@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mahasiswa>
+    <nama>Anita Dewi</nama>
+    <nim>1908561104</nim>
+    <umur>20</umur>
+    <birthdate>2000-09-29</birthdate>
+    <email>anitadewi20177@gmail.com</email>
+    <lulus>false</lulus>
+    <hobby>sport, sleep</hobby>
+
+    <pembimbing>
+    <pembimbing1>Bapak Putu</pembimbing1>
+    <pembimbing2>Bapak Gede</pembimbing2>
+    </pembimbing>
+</mahasiswa>
+<mahasiswa>
+    <nama>Agus Saputra</nama>
+    <nim>1908561109</nim>
+    <umur>20</umur>
+    <birthdate>2000-10-15</birthdate>
+    <email>agussaputra23@gmail.com</email>
+    <lulus>false</lulus>
+    <hobby>gaming, coding</hobby>
+
+    <pembimbing>
+    <pembimbing1>Bapak Putu</pembimbing1>
+    <pembimbing2>Bapak Gede</pembimbing2>
+    </pembimbing>
+</mahasiswa>
